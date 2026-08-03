@@ -32,40 +32,7 @@ versioning, and privacy-compliance work (KVKK / GDPR) that comes with it.
 I care about code that the next developer can read, and interfaces that the
 user never has to think about.
 
----
 
-### Tech Stack
-
-| Area | Tools |
-|---|---|
-| **Mobile** | React Native, React Navigation, react-native-svg, Safe Area Context |
-| **Language** | TypeScript, JavaScript (ES2022+) |
-| **State** | Redux Toolkit, React Redux, AsyncStorage |
-| **Backend** | Firebase (Auth, Firestore), Firebase Admin, Node.js |
-| **Quality** | Jest, ESLint, Prettier |
-| **Release** | Gradle / Xcode, Play Console, App Store Connect |
-
----
-
-### Featured Work
-
-**🥫 Dolaptan** — a React Native app that helps households reduce food waste by
-tracking what's in the fridge, flagging expiry dates, and suggesting recipes
-from ingredients already on hand.
-
-<sub>Layered architecture · Redux Toolkit · Firebase Auth &amp; Firestore · expiry
-tracking · recipe matching · account deletion &amp; password reset flows · staged
-force-update system · KVKK/GDPR-compliant privacy policy · shipped to Google Play</sub>
-
----
-
-### Currently
-
-- 📱 Building and iterating on mobile products under **AppDrope Studio**
-- 🧱 Deepening my work on scalable React Native architecture and design systems
-- 🤝 Open to collaboration on ambitious cross-platform mobile projects
-
----
 
 ### Reach Me
 
@@ -73,9 +40,4 @@ force-update system · KVKK/GDPR-compliant privacy policy · shipped to Google P
   <a href="mailto:serhatustek@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
----
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=serhadustk&show_icons=true&locale=en&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=serhadustk&layout=compact&locale=en&hide_border=true&theme=transparent" alt="Top languages"/>
-</p>
